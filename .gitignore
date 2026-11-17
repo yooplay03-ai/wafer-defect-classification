@@ -1,0 +1,7 @@
+# 원본 데이터(2.1GB)와 생성 데이터
+data/
+# MLflow 기록
+mlruns/
+mlflow.db
+__pycache__/
+.vscode/
